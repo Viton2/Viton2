@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python, and other frameworks such as Quarkus, React and Angular.</p>
+<p align="left">👨🏻‍🎓 Student at Centro Universitário de Brasília (CEUB)<br>• As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python and Dart, and other frameworks such as Quarkus, Flutter and Angular.</p>
 
 ###
 
-<h3 align="left">Techs!</h3>
+<h2 align="left">Techs!</h2>
 
 ###
 
@@ -20,6 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="11" />
@@ -40,7 +44,7 @@
 
 ###
 
-<h3 align="left">Feel free to contact me!</h3>
+<h2 align="left">Feel free to contact me!</h2>
 
 ###
 
