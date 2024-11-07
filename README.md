@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Student at Centro Universitário de Brasília (CEUB)<br>• As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python and Dart, and other frameworks such as Quarkus, Flutter and Next.js. <br>• Currently I'm studying to become  DevSecOps / Fullstack</p>
+<p align="left">👨🏻‍🎓 Student at Centro Universitário de Brasília (CEUB)<br>• As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python and Dart, and other frameworks such as Quarkus, Flutter and Next.js. <br>• Currently I'm studying to become  DevSecOps / Fullstack.</p>
 
 ###
 
