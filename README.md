@@ -1,8 +1,8 @@
-<h1 align="left">Olá 👋! My name is Vitor and I'm a Computer Science student!</h1>
+<h1 align="left">Olá 👋! My name is Vitor!</h1>
 
 ###
 
-<p align="left">👨🏻‍🎓 Student at Centro Universitário de Brasília (CEUB)<br>• As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python and Dart, and other frameworks such as Quarkus, Flutter and Next.js. <br>• Currently I'm studying to become  DevSecOps / Fullstack.</p>
+<p align="left">👨🏻‍🎓 Computer Science graduate at Centro Universitário de Brasília (CEUB)<br>• As a software developer, I'm more proficient with Java using the Spring Boot framework, however I like to explore other languages such as Python and Dart, and other frameworks such as Quarkus, Flutter and Next.js. <br>• Currently I'm studying to become  DevSecOps / Fullstack.</p>
 
 ###
 
